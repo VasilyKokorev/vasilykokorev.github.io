@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: VENUS
 description: with background image
 img: assets/img/venus_logo.png
 importance: 1

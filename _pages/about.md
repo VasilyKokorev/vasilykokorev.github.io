@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an astrophysicist working on the formation and growth of the first galaxies and black holes in the Universe. I am currently a Cosmic Frontier Prize Fellow at the University of Texas at Austin.
+I am an astrophysicist studying the formation and growth of the first galaxies and black holes in the early Universe. I currently hold a Cosmic Frontier Prize Fellowship at the University of Texas at Austin, where I use deep JWST imaging and spectroscopy to probe the emergence of cosmic structure.
 
 My research focuses on the earliest phases of galaxy evolution, particularly the rapid growth of supermassive black holes and the physical nature of the recently discovered “Little Red Dots” in deep JWST imaging. I use deep spectroscopic observations from JWST, especially NIRSpec, to study emission-line physics, radiative transfer, and the structure of dense gas surrounding accreting black holes in the first billion years after the Big Bang.
 

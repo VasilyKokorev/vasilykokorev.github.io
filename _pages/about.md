@@ -15,7 +15,7 @@ profile:
     <p>Austin, TX 78712</p>
     <p>United States</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -29,8 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an astrophysicist working on the formation and growth of the first galaxies and black holes in the Universe. I am currently a Cosmic Frontier Prize Fellow at the University of Texas at Austin.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on the earliest phases of galaxy evolution, particularly the rapid growth of supermassive black holes and the physical nature of the recently discovered “Little Red Dots” in deep JWST imaging. I use deep spectroscopic observations from JWST, especially NIRSpec, to study emission-line physics, radiative transfer, and the structure of dense gas surrounding accreting black holes in the first billion years after the Big Bang.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I work extensively with large spectroscopic datasets and develop custom modeling tools to interpret them, including panchromatic SED fitting and detailed emission-line profile modeling. My goal is to connect observable spectral features to the underlying physical processes that drive early black hole growth and galaxy assembly.

@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Cosmic Frontier Center</p>
-    <p>University of Texas at Austin</p>
+    <p>UT Austin</p>
     <p>2515 Speedway, PMA </p>
     <p>Austin, TX 78712</p>
     <p>United States</p>

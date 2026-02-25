@@ -9,11 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Cosmic Frontier Center</p>
-    <p>UT Austin</p>
-    <p>2515 Speedway, PMA </p>
-    <p>Austin, TX 78712</p>
-    <p>United States</p>
+    <p>Cosmic Frontier Center, UT Austin</p>
+    <p>2515 Speedway </p>
+    <p>Austin, TX 78712 </p>
+    <p>vasily.kokorev.astro@gmail.com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

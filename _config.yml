@@ -139,6 +139,10 @@ external_sources:
     categories: [external-posts]
     tags: [google]
 
+
+github_username: vasilykokorev # your GitHub user name
+orcid_id: 0000-0002-5588-9156 # your ORCID ID
+
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------

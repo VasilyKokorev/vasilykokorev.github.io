@@ -1,20 +1,22 @@
 ---
 layout: page
 title: VENUS
-description: Vast Exploration for Nascent Unexplored Sources
+description: 
 img: assets/img/venus_logo.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-**VENUS** is a JWST Treasury Survey using 60 massive galaxy clusters as gravitational lenses to probe the earliest epoch of the universe. With 150+ international members, the survey delivers uniform 10-filter NIRCam imaging and NIRCam/NIRSpec spectroscopy across all 60 lensing fields, targeting the formation of the first galaxies, star clusters, black holes, and supernovae at cosmic dawn.
+***VENUS*** turns 60 massive galaxy clusters into cosmic magnifying glasses, enabling JWST to probe galaxies far beyond its nominal detection limit. Within VENUS, my scientific focus is on identifying the most extreme, highly magnified galaxies at the highest redshifts, including candidate z > 15 systems and Little Red Dots (LRDs) that may host rapidly growing black holes.
 
-Within VENUS, I serve as **Data Reduction Lead** — overseeing the imaging and catalogue lead across the full cluster sample — and as **High-*z* Universe interest group Lead**, spearheading the search for the most distant, faint galaxies at *z* > 15 and coordinating the high-redshift science working group.
+I serve as Data and Catalog Lead, overseeing the imaging reduction and uniform catalog construction across the full cluster sample. I also lead the high-z working group, coordinating the search for the most distant galaxies and shaping the program’s science strategy at the earliest epochs.
 
 For more information, visit the VENUS website: [jwst-venus.github.io](https://jwst-venus.github.io/)
 
 ---
+
+See some of my favourite clusters below.
 
 **RXCJ0600**
 <div class="row">

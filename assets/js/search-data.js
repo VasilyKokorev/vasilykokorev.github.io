@@ -65,7 +65,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-venus",
           title: 'VENUS',
-          description: "Vast Exploration for Nascent Unexplored Sources",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-lrds",

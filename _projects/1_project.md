@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VENUS
-description: 
+description: Exploring the early Universe with gravitational lensing
 img: assets/img/venus_logo.png
 importance: 1
 category: work

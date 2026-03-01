@@ -1,8 +1,8 @@
 ---
 layout: page
 title: LRDs
-description: a project with a background image and giscus comments
-img: assets/img/lrd.png
+description: Little Red Dots
+img: assets/img/lrds_science.jpg
 importance: 2
 category: work
 giscus_comments: true

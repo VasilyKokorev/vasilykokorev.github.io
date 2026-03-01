@@ -8,11 +8,8 @@ category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Within the first months of its operation, JWST has presented us with two new pieces of extragalactic puzzle - 1) Galaxies at high-z are brighter and more chemically evolved that we thought, 2) There might be a whole new class of object, previously unseen by Hubble - JWST's Little Red Dots (LRDs).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page

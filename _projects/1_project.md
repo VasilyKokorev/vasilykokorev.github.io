@@ -40,5 +40,5 @@ See some of my favourite clusters below.
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    A close-up view of the high magnification region in A383.
 </div>

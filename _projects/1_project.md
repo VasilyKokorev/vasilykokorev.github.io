@@ -5,7 +5,7 @@ description: Exploring the early Universe with gravitational lensing
 img: assets/img/venus_logo.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 **VENUS** turns 60 massive galaxy clusters into cosmic magnifying glasses, enabling JWST to probe galaxies far beyond its nominal detection limit. Within VENUS, my scientific focus is on identifying the most extreme, highly magnified galaxies at the highest redshifts, including candidate z > 15 systems and Little Red Dots (LRDs) that may host rapidly growing black holes.
@@ -28,11 +28,11 @@ See some of my favourite clusters below.
         {% include figure.liquid loading="eager" path="assets/img/a383_clumps.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/a383_spiral.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    On the left, a sheared LRD with a blue companion. Middle, lensed low-z galaxy with star-forming clumps. Right, ...
+    On the left, <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251202117G/abstract">a sheared LRD with a blue companion</a>. Middle, lensed low-z galaxy with star-forming clumps. Right, a cool spiral galaxy.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

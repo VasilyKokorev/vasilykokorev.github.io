@@ -21,22 +21,22 @@ See some of my favourite clusters below.
 **A383**
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/a383_lrd.png" title="example image" class="img-fluid rounded z-depth-1" style="border: 2px solid #8B2020;" %}
+    <div class="col-sm mt-3 mt-md-0" style="border: 2px solid #8B2020; border-radius: 4px; overflow: hidden;">
+        {% include figure.liquid loading="eager" path="assets/img/a383_lrd.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/a383_clumps.png" title="example image" class="img-fluid rounded z-depth-1" style="border: 2px solid #8B2020;" %}
+    <div class="col-sm mt-3 mt-md-0" style="border: 2px solid #8B2020; border-radius: 4px; overflow: hidden;">
+        {% include figure.liquid loading="eager" path="assets/img/a383_clumps.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/a383_spiral.png" title="example image" class="img-fluid rounded z-depth-1" style="border: 2px solid #8B2020;" %}
+    <div class="col-sm mt-3 mt-md-0" style="border: 2px solid #8B2020; border-radius: 4px; overflow: hidden;">
+        {% include figure.liquid loading="eager" path="assets/img/a383_spiral.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     On the left, <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251202117G/abstract">a sheared LRD with a blue companion</a>. Middle, lensed low-z galaxy with star-forming clumps. Right, a cool spiral galaxy.
 </div>
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/a383_overview.png" title="example image" class="img-fluid rounded z-depth-1" style="border: 2px solid #8B2020;" %}
+    <div class="col-sm mt-3 mt-md-0" style="border: 2px solid #8B2020; border-radius: 4px; overflow: hidden;">
+        {% include figure.liquid loading="eager" path="assets/img/a383_overview.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

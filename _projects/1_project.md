@@ -22,18 +22,18 @@ See some of my favourite clusters below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <div style="display: inline-block; border: 1px solid #8B2020; border-radius: 4px; overflow: hidden; width: 100%;">
-            {% include figure.liquid loading="eager" path="assets/img/a383_lrd.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div style="display: inline-block; border: 1px solid #8B2020; border-radius: 4px; overflow: hidden; width: 100%; line-height: 0;">
+            {% include figure.liquid loading="eager" path="assets/img/a383_lrd.png" title="example image" class="img-fluid rounded z-depth-1" style="margin-bottom: 0;" %}
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <div style="display: inline-block; border: 1px solid #8B2020; border-radius: 4px; overflow: hidden; width: 100%;">
-            {% include figure.liquid loading="eager" path="assets/img/a383_clumps.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div style="display: inline-block; border: 1px solid #8B2020; border-radius: 4px; overflow: hidden; width: 100%; line-height: 0;">
+            {% include figure.liquid loading="eager" path="assets/img/a383_clumps.png" title="example image" class="img-fluid rounded z-depth-1" style="margin-bottom: 0;" %}
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <div style="display: inline-block; border: 1px solid #8B2020; border-radius: 4px; overflow: hidden; width: 100%;">
-            {% include figure.liquid loading="eager" path="assets/img/a383_spiral.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div style="display: inline-block; border: 1px solid #8B2020; border-radius: 4px; overflow: hidden; width: 100%; line-height: 0;">
+            {% include figure.liquid loading="eager" path="assets/img/a383_spiral.png" title="example image" class="img-fluid rounded z-depth-1" style="margin-bottom: 0;" %}
         </div>
     </div>
 </div>
@@ -42,8 +42,8 @@ See some of my favourite clusters below.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <div style="display: inline-block; border: 1px solid #8B2020; border-radius: 4px; overflow: hidden; width: 100%;">
-            {% include figure.liquid loading="eager" path="assets/img/a383_overview.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div style="display: inline-block; border: 1px solid #8B2020; border-radius: 4px; overflow: hidden; width: 100%; line-height: 0;">
+            {% include figure.liquid loading="eager" path="assets/img/a383_overview.png" title="example image" class="img-fluid rounded z-depth-1" style="margin-bottom: 0;" %}
         </div>
     </div>
 </div>

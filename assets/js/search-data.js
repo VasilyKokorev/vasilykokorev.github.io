@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "[&quot;UNDER CONSTRUCTION&quot;]",
+          description: "A few of the things I spend my time on.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -70,14 +70,14 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-lrds",
           title: 'LRDs',
-          description: "Little Red Dots",
+          description: "Little Red Dots — and what is hiding inside them",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-high-z-galaxies",
+          title: 'high-z galaxies',
+          description: "The first few hundred million years, one spectrum at a time",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',

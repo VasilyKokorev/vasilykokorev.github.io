@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Hubble Fellow
 
 profile:
   align: right

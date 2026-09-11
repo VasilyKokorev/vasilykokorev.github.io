@@ -33,6 +33,15 @@ body.sticky-bottom-footer {
   max-width: v.$max-content-width;
 }
 
+// About-page subtitle, rendered under the name in the header.
+.post-header .desc {
+  margin-top: -0.35rem;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  font-weight: 300;
+  color: var(--global-text-color-light);
+}
+
 // Profile
 .profile {
   img {

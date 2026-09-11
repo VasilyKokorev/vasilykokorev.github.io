@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an astrophysicist studying how the first galaxies and black holes formed in the early Universe. Currently I hold a Cosmic Frontier Prize Fellowship at the University of Texas at Austin, where I use deep JWST imaging and spectroscopy to investigate the physical conditions of galaxies within the first billion years after the Big Bang.
+I am an astrophysicist studying how the first galaxies and black holes formed in the early Universe. Currently I hold a Hubble Fellowship at the University of Texas at Austin, where I use deep JWST imaging and spectroscopy to investigate the physical conditions of galaxies within the first billion years after the Big Bang.
 
 My research focuses on the earliest phases of galaxy evolution and the rapid assembly of supermassive black holes. In particular, I study a newly discovered population of compact sources in JWST surveys known as “Little Red Dots,” whose unusual spectral features suggest rapidly accreting black holes embedded within extremely dense gas. Understanding these objects provides a new window into how black holes and galaxies co-evolved at cosmic dawn. Using deep JWST/NIRSpec spectroscopy, I investigate the emission-line physics and radiative transfer in these systems, linking observed spectral signatures to the structure of dense gas surrounding growing black holes. 
 
